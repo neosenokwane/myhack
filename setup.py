@@ -8,7 +8,7 @@ setup(
     description='Analyse Hackathon',
     long_description=open('README.md').read(),
     install_requires=['numpy'],
-    url='https://github.com/neosenokwane/myhack',
+    url='https://github.com/neosenokwane/myhack.git',
     author='Neo Senokwane',
     author_email='neosenokwane@gmail.com'
 )
