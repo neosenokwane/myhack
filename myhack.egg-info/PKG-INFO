@@ -1,0 +1,21 @@
+Metadata-Version: 1.0
+Name: myhack
+Version: 0.1
+Summary: Analyse Hackathon
+Home-page: https://github.com/neosenokwane/myhack
+Author: Neo Senokwane
+Author-email: neosenokwane@gmail.com
+License: MIT
+Description: ## myhack
+        This library was created for the analyse hackathon
+        
+        ## building this package locally
+        'python setup.py sdist'
+        
+        ## installing this package from GitHub
+        'pip install git+https://github.com/neosenokwane/myhack'
+        
+        ## updating this package from GitHub
+        'pip install --upgrade git+https://github.com/neosenokwane/myhack'
+        
+Platform: UNKNOWN

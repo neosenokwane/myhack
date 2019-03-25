@@ -1,0 +1,7 @@
+README.md
+setup.py
+myhack.egg-info/PKG-INFO
+myhack.egg-info/SOURCES.txt
+myhack.egg-info/dependency_links.txt
+myhack.egg-info/requires.txt
+myhack.egg-info/top_level.txt
